@@ -6,19 +6,30 @@ With increasing demands for flexible work models, many IT organizations have ada
 
 Co-design refers to the collective creativity of both designers and non-designers working together in the design process. As a participatory approach to design, it strives to cater various stakeholders' fuzzy needs as well as foster consensus, creativity and collaboration. Human Computer Interaction (HCI) and Software Engineering (SE) research has increasingly demonstrated interest in co-designing for marginalized populations and underrepresented groups. In SE, prior co-design practice also enabled developers to articulate imprecise requirements in software-intensive development, and hence improve user satisfaction. While recent reports often indicate developers' diverse work preferences towards remote and on-site arrangements, co-design could be a suitable approach to address an organization's fuzzy needs during transitioning to a hybrid work model.
 
-This repository provides the agendas and methodological guidelines for these co-design workshops.
+This repository provides the **agendas** and **methodological guidelines** for these co-design workshops.
 
-## Recruiting Participants and Preparation
-### Recruitment
+# Table of Contents
+1. [Recruiting and Preparation](#prep)
+2. [Workshop 1: Discovery and Co-Design](#workshop1)
+3. [Workshop 2: Development Jobs-to-Be-Done](#workshop2)
+4. [Workshop 3: Experimental Designs and Piloting](#workshop3)
+5. [Acknowledgement](#acknowledgement)
+
+## Recruiting and Preparation <a name="prep"></a>
+
+### Recruiting
 Participants in the co-design workshops should consist of a variety of software engineers, UX designers, and product managers representing the major software development roles at the site. It is ideal that the participants experience and functioning roles reflect the demongraphics of the office that . The number of participants varied from 17 to 22 across our three workshops at SAP.
 
 ### Preparation
-This workshop is recommended in a large conference room with roundtable seatings, and equipped with whiteboard spaces and wall displays. If there are remote participants, collaborative design space is recommended, including SurfaceHub and Jamboard. **LOTS of sticky notes** will be used during these sessions. 
+This workshop is recommended in a large conference room with roundtable seatings, and equipped with whiteboard spaces and wall displays. If there are remote participants, collaborative design space is recommended, including SurfaceHub and Jamboard. **LOTS of sticky notes** will be used during these sessions. For a session size with 20 participants, two facilitators would be sufficient.
 
 Agenda email and calendar invite need to be sent at least one week before the actuall workshop happen for coordinating time.
 
-## Workshop 1: Discovery and Co-Design
-The first workshop was a daylong event for participants to co-design the site's hybrid experience, and set up initial action items for pilot experiments and improvements.
+## Workshop 1: Discovery and Co-Design <a name="workshop1"></a>
+The first workshop was a daylong event for participants to co-design the site's hybrid experience, and set up initial action items for pilot experiments and improvements. 
+To leverage participants' creative potentials, we incorporated this site's design thinking (DT) practice into the co-design process. For this SAP site, DT has been applied as a collaborative and iterative approach that explores and elaborates the value proposition of a product in early stages. 
+
+Its DT approach aims to establish empathy for end users, and reduce the likelihood of costly adaptations. Building upon DT's success with *customer co-innovation*, i.e., an SAP activity that connects software developers and product managers with customers and articulates business and technical requirements of a product, we anticipate improved co-design outcomes by leveraging participants' skills acquired from the site's reliable DT approach.
 
 ### Agenda
 | Time            | Description                               |
@@ -99,34 +110,87 @@ For each POV statement, participants in team basis elaborated the ideas and vali
 
 If the POV statement passes the HMW validation, team will ideate some action items to make the improvement. Each team come up with their top-team-rated ideas and create a concrete plan that included a set of action items for the organization to experiment and improve its workplace.
 
-### Vote & Prototype
+### Vote and Prototype
 
-<img width="544" alt="image" src="https://user-images.githubusercontent.com/5464857/201769458-5e75e6a0-f865-4eb1-af0e-450ce935a6bd.png">
+<img width="300" alt="image" src="https://user-images.githubusercontent.com/5464857/201769458-5e75e6a0-f865-4eb1-af0e-450ce935a6bd.png">
 
 Each participant can vote five ideas that they would like to move forward (we recommend limit the number of votes to manage the number of action items, and thus the process is managable). After the voting activity, participants can prototype their ideas with a set of action items, including getting reactions to the action item set from co-design teammates, create mock floorplans of how the action get followed through, and discuss how the action set fits into the day-to-day activities of the team's target persona.
 
-## EOD Presentation
+### EOD Presentation
 
 At the end of workshop, each co-design team can give a five-minute presentation of the ideas and prototypes by their group. The presentation should include answers to the questions like what are the ideas, how should it be implemented, and why did you take this direction? Each co-design can provide the presentation with their whiteboard, and the remote team can present within Mural.
 
-## Workshop 2: Development Jobs-to-Be-Done
+## Workshop 2: Development Jobs-to-Be-Done <a name="workshop2"></a>
 
-The second workshop aimed at specifying a focused action plan for an ideal hybrid workplace experience. Since the first workshop created diverse and overwhelming number of action items, the second workshop aligned design goals for a hybrid workplace experience around main development tasks. This alignment process was guided by a business strategy, \textit{Jobs-to-Be-Done}, often adopt at this site, which aims for articulating the practical needs of end users and customers~\cite{christensen_know_2016}. Thus, this workshop could create an initial structure of hybrid schedule, and set tracking that monitored these items progressing.
+The second workshop aims at specifying a focused action plan for an ideal hybrid workplace experience. Since the first workshop is expected to create diverse and overwhelming number of action items, the second workshop aligned design goals for a hybrid workplace experience around main development tasks. This alignment process is guided by a business strategy, *Jobs-to-Be-Done*, often adopt at this SAP site. This strategy aims for articulating the practical needs of end users and customers. Thus, this workshop could create an initial structure of hybrid schedule, and set tracking that monitored these items progressing.
 
 ### Agenda
+
 | Time            | Description                               |
 |-----------      | ------------------------------------------|
-| 9:00 - 9:30     | Introduction and make teams               |
-| 9:30 - 10:00    | Understanding and Reframing the Challenge |
-| 10:00 - 11:00   | 360 Research                              |
-| 11:00 - 11:45   | Sythesis of research, persona, PoV        |
-| 11:45 - 12:00   | Check-in with the team                    |
-| 12:00 - 13:00   | Lunch breaks                              |
-| 13:00 - 14:30   | Validate HMW statements and ideation      |
-| 14:30 - 14:45   | Coffee breaks                             |
-| 14:45 - 16:30   | Idea voting and prototype creation        |
-| 16:30 - 17:00   | EOD presentation of proposed solutions    |
+| 10:00 - 10:30   | Tracking Action Progress                  |
+| 10:30 - 11:00   | Introduce Stations for Collaboration Model|
+| 11:00 - 12:00   | Design Your Perfect Experience            |
+
+### Tracking Action Progress
+
+The first step in the second workshop is to introduce and create tracking for top-rated action items generated in the first workshop. The tracking can be any form that is familiar with the organization's practice. Particularly, for our practice at SAP, we levearge the Kanban board in the organization's JIRA repository, where participants could create **💡Improvement💡** tickets for their action items. Moreover, all members of the office should have the access to the board and thus could comment and keep track of the organization's progress with potential improvements.
+
+<img width="200" alt="image" src="https://user-images.githubusercontent.com/5464857/201779139-206cd4c9-079f-4fe0-a420-c9f21b5f4809.png"> 
+
+### Introduce Stations for Collaboration Model
+
+Then the facilitators help participants to review **Collaboration Model**:
+> the site's software development standards for product management and engineering to discover, design and deliver product collaboratively. 
+
+Other organizations may apply their equavelance as long as this is similar standard for collaborative software development activities. According to this standard, the facilitator provides a category of activities as **Stations**, including,
+* **Getting Ready for Dev**: Team refinement and Domain-Driven-Design;
+* **After it's done**: Sprint reviews, restrospectives and celebrations;
+* **Heads-Down**: solo work (coding, mockup design, writing requirements and usability testing);
+* **Outside workplace**: customer workshops and design thinking workshops;
+* **Team building**: outings, interest groups and games;
+* **Personal development**: mentoring, shadowing and 1:1s.
+
+### Design Your Perfect Experience
+
+The last step of this workshop is to guide participants to contribute to each Station. Participant fill the above form for each of these Stations to indicate:
+
+|         |     Station Attributes                       |
+|---------|----------------------------------------------|
+|**WHY**  | Goals and Triggers                           |
+|**WHEN** | Ideal Frequenchy                             |
+|**WHO**  | Ideal Attendees/Audience                     |  
+|**WHERE**| Ideal Location/Room                          |
+|**HOW**  | Ideal Resource (tools and preparations)      |
+|**WHAT** | Ideal Outcomes                               |
+
+Participants may place their recurring development activities into these Stations for an ideal workplace experience: distinguishing the activities that favor on-site from tasks that prefer remote and quiet environments.
+
+## Workshop 3: Experimental Designs and Piloting <a name="workshop3"></a>
+
+<img width="757" alt="image" src="https://user-images.githubusercontent.com/5464857/201791926-b15d1089-053e-4203-9af9-9bc26e0e8c4d.png">
+The third workshop is another two hour event that aims to follow through challenging action items and solicit teams to experience/experimenting called **Game Plan** with hybrid schedules.
+
+### Agenda
+
+| Time            | Description                               |
+|-----------      | ------------------------------------------|
+| 10:00 - 10:30   | Introduction, and Example of Experiment   |
+| 10:30 - 10:45   | Create Working Pairs and Assign to Topics |
+| 10:45 - 11:45   | Pair Working Sessions                     |
+| 11:45 - 12:00   | Review Experimentation Plan               |   
+
+### Design an Experiment
+The first step is to review the action item tracking board and give examples of following through. Facilitators may organize participants to review the Kanban board together for several long-lasting and challenging issues. The facilitator introduces how to design a hybrid experiment plan of pushing forward for this type of issue, for instance, giving a detialed plan for progressing with actionable weekly goals. We used an example of optimizing on-site seatings for product neighborhoods.
+
+### Create Working Pairs and Assign to Topics
+Facilitators assign each existing topics of action items to at least two participants. Highly priorized topics are action items which have not been solved yet, and have received high numbers of votes earlier on. Participants may pair up with colleagues of whom they have already known, and working pair including different development roles is preferred for more insights.
+
+### Pair Working Session
+Then each small set of participants can start collaborating with their partners to define your experiment of improvements. We leverage the internal ticket system in JIRA. Each set needs to fill the problem statement, target goal, root cause analysis, countermeasures, and 
+
+### Plan Review and Rollout
 
 
-
-## Workshop 3: Experimental Designs and Piloting
+## Acknowledgement <a name="acknowledgement"></a>
+Main contributors of this resource: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome.
