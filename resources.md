@@ -28,3 +28,5 @@ Solutions of other companies
 
 Podcasts
 -	Podcast: SAP Labs – Hybrid working and collaborative communities ft. Anamarie Franc – The Tech Talks Daily
+
+Organization's internal resource and survey data are confidential.
