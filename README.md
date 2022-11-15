@@ -209,14 +209,15 @@ Co-design workshops are not the end! Following a continuous improvement process,
 # Acknowledgement <a name="acknowledgement"></a>
 Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). 
 In addition, our special thanks to,
-* [Yi-Hung Chou](https://yihungchou.com/);
-* [Jack Taylor](https://www.linkedin.com/in/jack-taylor-73921484/);
-* [Ralf Geiser](https://www.linkedin.com/in/ralf-geiser/);
-* [Peter Colligan](https://www.linkedin.com/in/peter-colligan/); 
-* [David Redmiles](https://redmiles.ics.uci.edu/);
-* [Rafael Prikladnicki](https://www.inf.pucrs.br/~rafael/cv/index.htm); 
-* Anonymous reviewers and associate editors from IEEE Software;
-* And anonymous participants at SAP Eureka, NPB office for making this work possible!
+* [Yi-Hung Chou](https://yihungchou.com/),
+* [Jack Taylor](https://www.linkedin.com/in/jack-taylor-73921484/),
+* [Ralf Geiser](https://www.linkedin.com/in/ralf-geiser/),
+* [Peter Colligan](https://www.linkedin.com/in/peter-colligan/), 
+* [David Redmiles](https://redmiles.ics.uci.edu/),
+* [Rafael Prikladnicki](https://www.inf.pucrs.br/~rafael/cv/index.htm), 
+* anonymous reviewers and associate editors from IEEE Software,
+* and anonymous participants at SAP Eureka, NPB office,
+for making this work possible!
 
 If you have questions with this co-design process, please do not hesitate to contact us. 
 
