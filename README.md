@@ -113,7 +113,7 @@ If the POV statement passes the HMW validation, team will ideate some action ite
 
 ## Vote and Prototype
 
-<img width="300" alt="image" src="https://user-images.githubusercontent.com/5464857/201769458-5e75e6a0-f865-4eb1-af0e-450ce935a6bd.png">
+<img width="250" alt="image" src="https://user-images.githubusercontent.com/5464857/201828216-dd701c55-2637-495a-97b2-4372ffe7faab.png">
 
 Each participant can vote five ideas that they would like to move forward (we recommend limit the number of votes to manage the number of action items, and thus the process is managable). After the voting activity, participants can prototype their ideas with a set of action items, including getting reactions to the action item set from co-design teammates, create mock floorplans of how the action get followed through, and discuss how the action set fits into the day-to-day activities of the team's target persona.
 
