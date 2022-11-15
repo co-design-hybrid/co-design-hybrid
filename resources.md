@@ -45,4 +45,4 @@ This file includes several examples of external research research which we distr
 
 
 ## Podcasts
--	Podcast: SAP Labs – Hybrid working and collaborative communities ft. Anamarie Franc – The Tech Talks Daily
+* Franc, A., & Hughes, C. N. (Hosts). (2022, January 24). SAP Labs – Hybrid Working and Collaborative Communities (No. 1858). _In The Tech Talks Daily._ https://techblogwriter.co.uk/podcast/
