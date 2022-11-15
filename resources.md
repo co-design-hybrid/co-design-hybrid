@@ -1,6 +1,6 @@
 # Future of Work External Resources
 
-This file includes several examples of external research research which we distributed to participants during the first workshop. While these reading list is publically available and accessible, the site's internal reports and survey are confidential.
+This file includes several examples of external research which we distributed to participants during the first workshop. While this reading list is publicly available and accessible, the site's internal reports and survey are confidential.
 
 ## Example Opinion and News Articles
 
