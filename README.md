@@ -85,7 +85,7 @@ Participants are encouraged to enhance these personas while they are conducting 
 
 Participants can apply user experience research methods to enhance their persona's profile, for instance:
 * Interview available teammates who aren't in the workshop.
-* Review research articles (e.g., internal technical reports, research literature, and press articles on hybrid work, please see our list of public resource at ....)
+* Review research articles (e.g., internal technical reports, research literature, and press articles on hybrid work, please see our list of public resource at [here](https://github.com/zhendow/co-design_hybrid/blob/main/resources.md))
 * Reivew and analyze competitors strategies towards hybrid work
 * Review internal survey data collected from local teams
 
