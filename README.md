@@ -13,7 +13,8 @@ This repository provides the **agendas** and **methodological guidelines** for t
 2. [Workshop 1: Discovery and Co-Design](#workshop1)
 3. [Workshop 2: Development Jobs-to-Be-Done](#workshop2)
 4. [Workshop 3: Experimental Designs and Piloting](#workshop3)
-5. [Acknowledgement](#acknowledgement)
+5. [Concluding Remarks](#conclusion)
+6. [Acknowledgement](#acknowledgement)
 
 ## Recruiting and Preparation <a name="prep"></a>
 
@@ -168,8 +169,9 @@ Participants may place their recurring development activities into these Station
 
 ## Workshop 3: Experimental Designs and Piloting <a name="workshop3"></a>
 
-<img width="757" alt="image" src="https://user-images.githubusercontent.com/5464857/201791926-b15d1089-053e-4203-9af9-9bc26e0e8c4d.png">
-The third workshop is another two hour event that aims to follow through challenging action items and solicit teams to experience/experimenting called **Game Plan** with hybrid schedules.
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/5464857/201791926-b15d1089-053e-4203-9af9-9bc26e0e8c4d.png">
+
+The third workshop is another two hour event that aims to follow through challenging action items (we mentioned it as **Game Plan** according to Organization Design Process) and solicit teams to experience or experiment with hybrid schedules.
 
 ### Agenda
 
@@ -187,10 +189,22 @@ The first step is to review the action item tracking board and give examples of 
 Facilitators assign each existing topics of action items to at least two participants. Highly priorized topics are action items which have not been solved yet, and have received high numbers of votes earlier on. Participants may pair up with colleagues of whom they have already known, and working pair including different development roles is preferred for more insights.
 
 ### Pair Working Session
-Then each small set of participants can start collaborating with their partners to define your experiment of improvements. We leverage the internal ticket system in JIRA. Each set needs to fill the problem statement, target goal, root cause analysis, countermeasures, and 
+Then each small set of participants can start collaborating with their partners to define your experiment of improvements. We leverage the internal ticket system in JIRA. Each set needs to fill the *Problem Statement*, *Target Goal*, *Root Cause Analysis*, *Countermeasures* and *Control*. See definition of the following form:
+
+| Plan Field           | Description                               |
+|----------------------|-------------------------------------------|
+| Problem Statements   | Describe the current state problem.                                                                           |
+| Target Goals         | Describe the target goal of what would like to see in the future state.                                       |
+| Root Cause Analysis  | Describe your strategy of discovering the root causes of problems in order to identify appropriate solutions. |
+| Countermeasures      | Describe countermeasures to resolve the issue.                                                                |  
+| Control              | Describe the control or check to put in place to ensure the resolution works.                                 | 
+
 
 ### Plan Review and Rollout
+In the last step, teams review the plan and prepare for rolling out. Each pair decide on a recurring date and time for weekly 30 minute standups. Each team shares their methods to carry out their experiment to resolve the issue, and set weekly goals and milestones. Meanwhile, participants may solicit some development teams to participant and experiment with hybrid experiments and schedules. During the rollout participants can continuously provide feedback on the Kanban board.
 
+## Concluding Remarks <a name="conclusion"></a>
+Co-design workshops are not the end! Following a continuous improvement process, facilitators needs to regularly re-visit their hybrid arrangement to calibrate organizational preferences and the site's collaborative development practice.
 
 ## Acknowledgement <a name="acknowledgement"></a>
-Main contributors of this resource: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome.
+Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome.
