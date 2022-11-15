@@ -19,7 +19,7 @@ This repository provides the **agendas** and **methodological guidelines** for t
 ## Recruiting and Preparation <a name="prep"></a>
 
 ### Recruiting
-Participants in the co-design workshops should consist of a variety of software engineers, UX designers, and product managers representing the major software development roles at the site. It is ideal that the participants experience and functioning roles reflect the demongraphics of the office that . The number of participants varied from 17 to 22 across our three workshops at SAP.
+Participants in the co-design workshops should consist of a variety of software engineers, UX designers, and product managers representing the major software development roles at the site. It is ideal that experience and functioning roles of participants can reflect the demongraphics of the office. The number of participants varied from 17 to 22 across our three workshops at SAP.
 
 ### Preparation
 This workshop is recommended in a large conference room with roundtable seatings, and equipped with whiteboard spaces and wall displays. If there are remote participants, collaborative design space is recommended, including SurfaceHub and Jamboard. **LOTS of sticky notes** will be used during these sessions. For a session size with 20 participants, two facilitators would be sufficient.
@@ -207,4 +207,4 @@ In the last step, teams review the plan and prepare for rolling out. Each pair d
 Co-design workshops are not the end! Following a continuous improvement process, facilitators needs to regularly re-visit their hybrid arrangement to calibrate organizational preferences and the site's collaborative development practice.
 
 ## Acknowledgement <a name="acknowledgement"></a>
-Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome.
+Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome ❤️.
