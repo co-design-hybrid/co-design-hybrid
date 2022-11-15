@@ -207,7 +207,8 @@ In the last step, teams review the plan and prepare for rolling out. Each pair d
 Co-design workshops are not the end! Following a continuous improvement process, facilitators needs to regularly re-visit their hybrid arrangement to calibrate organizational preferences and the site's collaborative development practice.
 
 # Acknowledgement <a name="acknowledgement"></a>
-Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). 
+Main contributors of this repository are [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design approach, please do not hesitate to contact us. 
+
 In addition, our special thanks to,
 * [Yi-Hung Chou](https://yihungchou.com/),
 * [Jack Taylor](https://www.linkedin.com/in/jack-taylor-73921484/),
@@ -219,7 +220,6 @@ In addition, our special thanks to,
 * and anonymous participants at SAP Eureka, NPB office,
 for making this work possible!
 
-If you have questions with this co-design process, please do not hesitate to contact us. 
 
 Issues and pull requests are always welcome ❤️.
 
