@@ -139,7 +139,7 @@ The first step in the second workshop is to introduce and create tracking for to
 
 <img width="200" alt="image" src="https://user-images.githubusercontent.com/5464857/201779139-206cd4c9-079f-4fe0-a420-c9f21b5f4809.png"> 
 
-### Introduce Stations for Collaboration Model
+### Introduce Stations for Development Activities
 
 Then the facilitators help participants to review **Collaboration Model**:
 > the site's software development standards for product management and engineering to discover, design and deliver product collaboratively. 
@@ -159,7 +159,7 @@ The last step of this workshop is to guide participants to contribute to each St
 |         |     Station Attributes                       |
 |---------|----------------------------------------------|
 |**WHY**  | Goals and Triggers                           |
-|**WHEN** | Ideal Frequenchy                             |
+|**WHEN** | Ideal Frequency                             |
 |**WHO**  | Ideal Attendees/Audience                     |  
 |**WHERE**| Ideal Location/Room                          |
 |**HOW**  | Ideal Resource (tools and preparations)      |
