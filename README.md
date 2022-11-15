@@ -215,7 +215,7 @@ In addition, our special thanks to,
 * [Peter Colligan](https://www.linkedin.com/in/peter-colligan/), 
 * [David Redmiles](https://redmiles.ics.uci.edu/),
 * [Rafael Prikladnicki](https://www.inf.pucrs.br/~rafael/cv/index.htm), 
-* anonymous reviewers and associate editors from IEEE Software,
+* anonymous reviewers and associate editors from [IEEE Software](https://www.computer.org/csdl/magazine/so),
 * and anonymous participants at SAP Eureka, NPB office,
 for making this work possible!
 
