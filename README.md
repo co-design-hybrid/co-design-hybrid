@@ -129,11 +129,11 @@ The second workshop aims at specifying a focused action plan for an ideal hybrid
 
 | Time            | Description                               |
 |-----------      | ------------------------------------------|
-| 10:00 - 10:30   | Tracking Action Progress                  |
+| 10:00 - 10:30   | Tracking Action Item Progress             |
 | 10:30 - 11:00   | Introduce Stations for Collaboration Model|
 | 11:00 - 12:00   | Design Your Perfect Experience            |
 
-### Tracking Action Progress
+### Tracking Action Item Progress
 
 The first step in the second workshop is to introduce and create tracking for top-rated action items generated in the first workshop. The tracking can be any form that is familiar with the organization's practice. Particularly, for our practice at SAP, we levearge the Kanban board in the organization's JIRA repository, where participants could create **💡Improvement💡** tickets for their action items. Moreover, all members of the office should have the access to the board and thus could comment and keep track of the organization's progress with potential improvements.
 
@@ -159,7 +159,7 @@ The last step of this workshop is to guide participants to contribute to each St
 |         |     Station Attributes                       |
 |---------|----------------------------------------------|
 |**WHY**  | Goals and Triggers                           |
-|**WHEN** | Ideal Frequency                             |
+|**WHEN** | Ideal Frequency                              |
 |**WHO**  | Ideal Attendees/Audience                     |  
 |**WHERE**| Ideal Location/Room                          |
 |**HOW**  | Ideal Resource (tools and preparations)      |
