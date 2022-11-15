@@ -1,6 +1,6 @@
 # Future of Work External Resources
 
-Example opinion and news articles:
+## Example opinion and news articles
 
 * Alexander et al. (2021, May 17). What executives are saying about the future of hybrid work. *Mckinsey & Company*. https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/what-executives-are-saying-about-the-future-of-hybrid-work
 
@@ -17,7 +17,7 @@ Example opinion and news articles:
 * Bindley, K. (2022, March 4). Tech companies are reopening their offices, but tech work has changed forever. *The Wall Street Journal*. https://www.wsj.com/articles/tech-companies-reopen-their-offices-facebook-google-11646365155
 
 
-Research Articles
+## Example Research Articles
 
 * Howe, L. C., & Menges, J. I. (2021). Remote work mindsets predict emotions and productivity in home office: A longitudinal study of knowledge workers during the Covid-19 pandemic. *Human–Computer Interaction.* https://www.tandfonline.com/doi/full/10.1080/07370024.2021.1987238Teodorovicz, 
 
@@ -27,7 +27,7 @@ Research Articles
 
 * Battiston, D., Blanes i Vidal, J., & Kirchmaier, T. (2020). Face-to-Face Communication in Organisations (SSRN Scholarly Paper No. 2934290). https://doi.org/10.2139/ssrn.2934290 (Preprint)
 
-Solutions of other companies
+## Example Solutions of other companies
 -	Dropbox is reimagining the workplace with Dropbox Studios – Dropbox
 -	Remote Handbook – Remote
 -	Google calls workers back to offices – Google
@@ -35,7 +35,7 @@ Solutions of other companies
 -	The next great disruption is hybrid work, are we ready? - Microsoft
 -	Apple Sets April 11 Return-to-Work Deadline for Corporate Staff - Apple
 
-Podcasts
+## Podcasts
 -	Podcast: SAP Labs – Hybrid working and collaborative communities ft. Anamarie Franc – The Tech Talks Daily
 
 Organization's internal resource and survey data are confidential.
