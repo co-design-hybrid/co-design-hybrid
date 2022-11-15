@@ -1,6 +1,8 @@
 # Future of Work External Resources
 
-## Example opinion and news articles
+This file includes several examples of external research research which we distributed to participants during the first workshop. While these reading list is publically available and accessible, the site's internal reports and survey are confidential.
+
+## Example Opinion and News Articles
 
 * Alexander et al. (2021, May 17). What executives are saying about the future of hybrid work. *Mckinsey & Company*. https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/what-executives-are-saying-about-the-future-of-hybrid-work
 
@@ -27,15 +29,20 @@
 
 * Battiston, D., Blanes i Vidal, J., & Kirchmaier, T. (2020). Face-to-Face Communication in Organisations (SSRN Scholarly Paper No. 2934290). https://doi.org/10.2139/ssrn.2934290 (Preprint)
 
-## Example Solutions of other companies
--	Dropbox is reimagining the workplace with Dropbox Studios – Dropbox
--	Remote Handbook – Remote
--	Google calls workers back to offices – Google
--	With 1 Sentence, Google's CEO Just Shared the Best Plan Yet for Returning to the Office - Inc
--	The next great disruption is hybrid work, are we ready? - Microsoft
--	Apple Sets April 11 Return-to-Work Deadline for Corporate Staff - Apple
+## Example Solutions of Other Similar Organizations
+
+* Miller, R. (2021, July 8). Dropbox is reimaging the workplace with Dropbox Studios. _TechCrunch_. https://techcrunch.com/2021/07/08/dropbox-is-reimagining-the-workplace-with-dropbox-studios/
+
+* Remote. (n.d.). The all-in-one workspace for your notes, tasks, wikis, and databases. _Notion_. https://www.notion.so/Remote-Handbook-a3439c6ccaac4d5f8c7515c357345c11
+
+* Entis, L. (2022, March). Google calls workers back to offices. _LinkedIn News_. https://www.linkedin.com/news/story/google-calls-workers-back-to-offices-5742442/
+
+* Aten, J. (2022, March 2). With 1 sentence, Google’s CEO just shared the best plan yet for returning to the office. _Inc_. https://www.inc.com/jason-aten/with-1-sentence-googles-ceo-sundar-pichai-just-shared-best-plan-yet-for-returning-to-office.html
+
+* Wiseman, B. (2021, March 22). The next great disruption is hybrid work—are we ready? _Work Trend Index Annual Report, Microsoft_. https://www.microsoft.com/en-us/worklab/work-trend-index/hybrid-work
+
+* Gurman, M. (2022, March 4). Apple sets April 11 Return-to-work deadline for corporate staff. _Bloomberg_. https://www.bloomberg.com/news/articles/2022-03-04/apple-sets-april-11-return-to-work-deadline-for-corporate-staff
+
 
 ## Podcasts
 -	Podcast: SAP Labs – Hybrid working and collaborative communities ft. Anamarie Franc – The Tech Talks Daily
-
-Organization's internal resource and survey data are confidential.
