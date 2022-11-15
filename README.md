@@ -207,12 +207,14 @@ In the last step, teams review the plan and prepare for rolling out. Each pair d
 Co-design workshops are not the end! Following a continuous improvement process, facilitators needs to regularly re-visit their hybrid arrangement to calibrate organizational preferences and the site's collaborative development practice.
 
 ## Acknowledgement <a name="acknowledgement"></a>
-Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). If you have questions with this co-design process, please do not hesitate to contact us. Issues and pull requests are always welcome ❤️.
+Main contributors of this repository: [Zhendong Wang](https://www.linkedin.com/in/zhendow/), [Kayla Fathi](https://www.linkedin.com/in/kaylafathi/) and [Tobias Schimmer](https://www.bwl.uni-mannheim.de/en/heinzl/team/external/prof-dr-tobias-schimmer/). 
+If you have questions with this co-design process, please do not hesitate to contact us. 
+
+Issues and pull requests are always welcome ❤️.
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
-This work is licensed under a [Creative Commons Attribution 4.0 International
-License][cc-by].
+This work is licensed under a [Creative Commons Attribution 4.0 International License][cc-by].
 
 [![CC BY 4.0][cc-by-image]][cc-by]
 
