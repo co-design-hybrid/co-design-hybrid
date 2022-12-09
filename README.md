@@ -1,4 +1,4 @@
-# Co-Designing for a Hybrid Workplace Experience
+# Co-designing for a Hybrid Workplace Experience
 
 **🚧 Please be aware that the repository is still under construction 🚧**
 
@@ -10,7 +10,7 @@ This repository provides the **agendas** and **methodological guidelines** for t
 
 # Table of Contents
 1. [Recruiting and Preparation](#prep)
-2. [Workshop 1: Discovery and Co-Design](#workshop1)
+2. [Workshop 1: Discovery and Co-design](#workshop1)
 3. [Workshop 2: Development Jobs-to-Be-Done](#workshop2)
 4. [Workshop 3: Experimental Designs and Piloting](#workshop3)
 5. [Concluding Remarks](#conclusion)
@@ -26,7 +26,7 @@ This workshop is recommended in a large conference room with roundtable seatings
 
 Agenda email and calendar invite need to be sent at least one week before the actuall workshop happen for coordinating time.
 
-# Workshop 1: Discovery and Co-Design <a name="workshop1"></a>
+# Workshop 1: Discovery and Co-design <a name="workshop1"></a>
 The first workshop was a daylong event for participants to co-design the site's hybrid experience, and set up initial action items for pilot experiments and improvements. 
 To leverage participants' creative potentials, we incorporated this site's design thinking (DT) practice into the co-design process. For this SAP site, DT has been applied as a collaborative and iterative approach that explores and elaborates the value proposition of a product in early stages. 
 
