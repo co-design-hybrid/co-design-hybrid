@@ -21,6 +21,16 @@ This file includes several examples of external research which we distributed to
 
 ## Example Research Articles
 
+### Understanding Software Engineering Productivity
+* Murphy-Hill, E., Jaspan, C., Sadowski, C., Shepherd, D., Phillips, M., Winter, C., ... & Jorde, M. (2019). What predicts software developers’ productivity?. IEEE Transactions on Software Engineering, 47(3), 582-594. https://doi.org/10.1109/TSE.2019.2900308
+
+* Forsgren, N., Storey, M. A., Maddila, C., Zimmermann, T., Houck, B., & Butler, J. (2021). The SPACE of Developer Productivity: There's more to it than you think. Queue, 19(1), 20-48. https://doi.org/10.1145/3454122.3454124
+
+* Crawford, E. R., Reeves, C. J., Stewart, G. L., & Astrove, S. L. (2019). To link or not to link? Multiple team membership and unit performance. Journal of Applied Psychology, 104(3), 341. https://doi.org/10.1037/apl0000381
+
+* Johnson, B., Zimmermann, T., & Bird, C. (2019). The effect of work environments on productivity and satisfaction of software engineers. IEEE Transactions on Software Engineering, 47(4), 736-757. https://doi.org/10.1109/TSE.2019.2903053
+
+### Transitioning to the Future of Work
 * Howe, L. C., & Menges, J. I. (2021). Remote work mindsets predict emotions and productivity in home office: A longitudinal study of knowledge workers during the Covid-19 pandemic. *Human–Computer Interaction.* https://www.tandfonline.com/doi/full/10.1080/07370024.2021.1987238Teodorovicz, 
 
 * T., Sadun, R., Kun, A. L., & Shaer, O. (2021). How does working from home during COVID-19 affect what managers do? Evidence from time-Use studies. *Human–Computer Interaction.* https://www.tandfonline.com/doi/full/10.1080/07370024.2021.1987908
@@ -28,6 +38,10 @@ This file includes several examples of external research which we distributed to
 * Newbold, J. W., Rudnicka, A., Cook, D., Cecchinato, M. E., Gould, S. J. J., & Cox, A. L. (2022). The new normals of work: A framework for understanding responses to disruptions created by new futures of work. *Human–Computer Interaction, 37(6), 508–531.* https://doi.org/10.1080/07370024.2021.1982391
 
 * Battiston, D., Blanes i Vidal, J., & Kirchmaier, T. (2020). Face-to-Face Communication in Organisations (SSRN Scholarly Paper No. 2934290). https://doi.org/10.2139/ssrn.2934290 (Preprint)
+
+* Ford, D., Storey, M. A., Zimmermann, T., Bird, C., Jaffe, S., Maddila, C., ... & Nagappan, N. (2021). A tale of two cities: Software developers working from home during the covid-19 pandemic. ACM Transactions on Software Engineering and Methodology (TOSEM), 31(2), 1-37. https://doi.org/10.1145/3487567
+
+* Wang, Z., Chou, Y. H., Fathi, K., Schimmer, T., Colligan, P., Redmiles, D., & Prikladnicki, R. (2022). Co-designing for a Hybrid Workplace Experience in Software Development. IEEE Software. https://doi.org/10.1109/MS.2022.3229894
 
 ## Example Solutions of Other Similar Organizations
 
