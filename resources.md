@@ -30,6 +30,11 @@ This file includes several examples of external research which we distributed to
 
 * Johnson, B., Zimmermann, T., & Bird, C. (2019). The effect of work environments on productivity and satisfaction of software engineers. IEEE Transactions on Software Engineering, 47(4), 736-757. https://doi.org/10.1109/TSE.2019.2903053
 
+### Large Scale Scrum
+
+* Larman, C., & Vodde, B. (2016). Large-scale scrum: More with LeSS. Addison-Wesley Professional.
+
+
 ### Transitioning to the Future of Work
 * Howe, L. C., & Menges, J. I. (2021). Remote work mindsets predict emotions and productivity in home office: A longitudinal study of knowledge workers during the Covid-19 pandemic. *Human–Computer Interaction.* https://www.tandfonline.com/doi/full/10.1080/07370024.2021.1987238Teodorovicz, 
 
