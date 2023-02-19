@@ -1,7 +1,5 @@
 # Co-designing for a Hybrid Workplace Experience
 
-**🚧 Please be aware that the repository is still under construction 🚧**
-
 With increasing demands for flexible work models, many IT organizations have adapted to hybrid work that promises enhanced team productivity as well as work satisfaction. To achieve productive engineering practice, collaborative product innovation, and effective mentorship in the ensuing hybrid work, we introduce a workshop approach on co-designing for a hybrid workplace experience and provide implications for continuously improving collaborative software development at scale. The summary of this process can be found in an IEEE Software article under revision.
 
 Co-design refers to the collective creativity of both designers and non-designers working together in the design process. As a participatory approach to design, it strives to cater various stakeholders' fuzzy needs as well as foster consensus, creativity and collaboration. Human Computer Interaction (HCI) and Software Engineering (SE) research has increasingly demonstrated interest in co-designing for marginalized populations and underrepresented groups. In SE, prior co-design practice also enabled developers to articulate imprecise requirements in software-intensive development, and hence improve user satisfaction. While recent reports often indicate developers' diverse work preferences towards remote and on-site arrangements, co-design could be a suitable approach to address an organization's fuzzy needs during transitioning to a hybrid work model.
