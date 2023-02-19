@@ -218,6 +218,16 @@ In addition, our special thanks to,
 * and anonymous participants at SAP Eureka, NPB office,
 for making this work possible!
 
+For citing its IEEE paper:
+```
+@article{wang2022co,
+  title={Co-designing for a Hybrid Workplace Experience in Software Development},
+  author={Wang, Zhendong and Chou, Yi-Hung and Fathi, Kayla and Schimmer, Tobias and Colligan, Peter and Redmiles, David and Prikladnicki, Rafael},
+  journal={IEEE Software},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 Issues and pull requests are always welcome ❤️.
 
